@@ -35,10 +35,10 @@ public class Miniproject_1 {
 			}
 
 			System.out.println("You are correct, and you did it in: " + tryCount + " tries!");
-			System.out.println("----------------------------------------------------------");
+			System.out.println("-----------------------------------------------------------");
 			System.out.println("Do you want to play again? (y/n):");
 			String exit = sc.next();
-			if (!exit.equals("y")) {
+			if (!exit.equals("y" || "Y)) {
 				break;
 			}
 //			sc.close();
