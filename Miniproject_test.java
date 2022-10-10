@@ -3,7 +3,7 @@ package miniproject_1;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Miniproject_test {
+public class Miniproject_1 {
 
 	public static void main(String[] args) {
 
