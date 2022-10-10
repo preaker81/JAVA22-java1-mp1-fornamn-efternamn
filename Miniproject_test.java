@@ -41,7 +41,6 @@ public class Miniproject_1 {
 			if (!exit.equals("y")) {
 				break;
 			}
-//			sc.close();
 		}
 
 	}
