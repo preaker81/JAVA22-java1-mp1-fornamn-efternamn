@@ -38,7 +38,7 @@ public class Miniproject_1 {
 			System.out.println("-----------------------------------------------------------");
 			System.out.println("Do you want to play again? (y/n):");
 			String exit = sc.next();
-			if (!exit.equals("y" || "Y)) {
+			if (!exit.equals("y")) {
 				break;
 			}
 //			sc.close();
